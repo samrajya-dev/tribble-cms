@@ -78,7 +78,7 @@ $lastInsertId=$query -> execute();
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Vishwa Connectome | Admin</title>
+  <title>CMS | Admin</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <link rel="icon" type="image/png" href="../assets/logo/vishwa_connectome_logo.png">
